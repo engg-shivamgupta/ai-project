@@ -286,6 +286,9 @@ aws ecs create-service --service-name lead-scoring \
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
@@ -303,7 +306,6 @@ aws ecs create-service --service-name lead-scoring \
 ## 📞 Support
 
 For support and questions:
-- Email: mansikamothi1999@gmail.com
+- Email: mansikamothi@example.com
 - LinkedIn: [linkedin.com/in/mansikamothi](https://linkedin.com/in/mansikamothi)
-
 - Issues: [GitHub Issues](https://github.com/yourusername/ai-lead-scoring-salesforce/issues)
