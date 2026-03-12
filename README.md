@@ -289,9 +289,9 @@ aws ecs create-service --service-name lead-scoring \
 
 ## 👥 Team
 
-- **Lead Developer**: Mansi Kamothi
-- **Project Duration**: January 2025
-- **Organization**: Independent Project
+- **Lead Developer**: SHIVAM GUPTA
+- **Project Duration**: MARCH 2026
+  
 
 ## 🙏 Acknowledgments
 
@@ -303,5 +303,6 @@ aws ecs create-service --service-name lead-scoring \
 ## 📞 Support
 
 For support and questions:
-- Email: mansikamothi1999@gmail.com
-- LinkedIn: [linkedin.com/in/mansikamothi](https://linkedin.com/in/mansikamothi)
+- Email: shivammau321@gmail.com
+
+
